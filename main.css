@@ -1,0 +1,9 @@
+p {
+	color: red;
+}
+
+div {
+	background-color: yellow;
+  border:1px solid aquamarine;
+  padding:30px;
+}
